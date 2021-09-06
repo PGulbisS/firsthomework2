@@ -1,0 +1,16 @@
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\bin\Debug\net5.0\firsthomework2.exe
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\bin\Debug\net5.0\firsthomework2.deps.json
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\bin\Debug\net5.0\firsthomework2.runtimeconfig.json
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\bin\Debug\net5.0\firsthomework2.runtimeconfig.dev.json
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\bin\Debug\net5.0\firsthomework2.dll
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\bin\Debug\net5.0\ref\firsthomework2.dll
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\bin\Debug\net5.0\firsthomework2.pdb
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\obj\Debug\net5.0\firsthomework2.csproj.AssemblyReference.cache
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\obj\Debug\net5.0\firsthomework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\obj\Debug\net5.0\firsthomework2.AssemblyInfoInputs.cache
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\obj\Debug\net5.0\firsthomework2.AssemblyInfo.cs
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\obj\Debug\net5.0\firsthomework2.csproj.CoreCompileInputs.cache
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\obj\Debug\net5.0\firsthomework2.dll
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\obj\Debug\net5.0\ref\firsthomework2.dll
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\obj\Debug\net5.0\firsthomework2.pdb
+D:\Cprogramm\firsthomework2\firsthomework2\firsthomework2\obj\Debug\net5.0\firsthomework2.genruntimeconfig.cache
